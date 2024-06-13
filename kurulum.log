@@ -1,0 +1,4 @@
+Öncelikle "./script.sh" dosyasını "\root\" dizinine kopyalayalım.
+Terminal ekranında "./script.sh" komutunu yazarak kurulumu başlatabilirsiniz. ( root olarak )
+"Bash script – "/bin/bash^M: bad interpreter: No such file or directory" hatası alırsanız aynı terminal ekranında "sed -i -e 's/\r$//' script.sh" komutunu girelim.
+Son olarak "./script.sh" komutu ile kurulumu sonlandıralım.
