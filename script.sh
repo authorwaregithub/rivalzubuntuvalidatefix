@@ -2,7 +2,7 @@
 
 # Script By Node Farmer
 # Node Farmer X: https://x.com/_node_farmer_
-# Turkish Translator by Postuldak
+# Turkish Translator by Authorware
 
 SERVICE_FILE="/etc/systemd/system/eth0-config.service"
 
