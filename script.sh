@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# Script By Node Farmer
-# Node Farmer X: https://x.com/_node_farmer_
-# Turkish Translator by Authorware
+# Turkish Translator by nudezilla
 
 SERVICE_FILE="/etc/systemd/system/eth0-config.service"
 
